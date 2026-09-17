@@ -1,2 +1,2 @@
-# password-generator
-Password generator on python
+# Password Generator
+*Currently under development...*
